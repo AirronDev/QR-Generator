@@ -9,9 +9,9 @@ body{
 }
 h1{
     position: relative;
+    width: 299px;
     left: 20px;
     bottom: 45px;
-    display: inline;
     color: #c6c7ec;
 }
 .container{
